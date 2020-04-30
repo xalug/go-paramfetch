@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	build "github.com/filecoin-project/go-paramfetch"
+	build "github.com/sbwtw/go-paramfetch"
 )
 
 func check(e error) {
