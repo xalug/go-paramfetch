@@ -1,4 +1,4 @@
-module github.com/sbwtw/go-paramfetch
+module github.com/xalug/go-paramfetch
 
 go 1.13
 
