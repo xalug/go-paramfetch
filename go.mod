@@ -1,4 +1,4 @@
-module github.com/xalug/go-paramfetch
+module github.com/filecoin-project/go-paramfetch
 
 go 1.13
 
